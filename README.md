@@ -1,5 +1,12 @@
-# MMGDreamer: Mixed-Modality Graph for Geometry-Controllable 3D Indoor Scene Generation
-### [Project Page](https://github.com/yangzhifeio/MMGDreamer) | [Paper](https://github.com/yangzhifeio/MMGDreamer) | [Video](https://github.com/yangzhifeio/MMGDreamer)
+# [AAAI 2025] MMGDreamer
+
+<h4 align="center">
+
+MMGDreamer: Mixed-Modality Graph for Geometry-Controllable 3D Indoor Scene Generation
+
+[Project Page](https://github.com/yangzhifeio/MMGDreamer) | [Paper](https://github.com/yangzhifeio/MMGDreamer) | [Video](https://github.com/yangzhifeio/MMGDreamer)
+
+</h4>
 
 ![introduction](assets/teaser.png)
 
