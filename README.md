@@ -7,3 +7,6 @@ Controllable 3D scene generation has extensive applications in virtual reality a
 
 To address this issue, we propose \textbf{MMGDreamer}, a dual-branch diffusion model for scene generation that incorporates a novel \textbf{Mixed-Modality Graph}, visual enhancement module, and relation predictor. The mixed-modality graph allows object nodes to integrate textual and visual modalities, with optional relationships between nodes. It enhances adaptability to flexible user inputs and enables meticulous control over the geometry of objects in the generated scenes.The visual enhancement module enriches the visual fidelity of text-only nodes by constructing visual representations using text embeddings.Furthermore, our relation predictor leverages node representations to infer absent relationships between nodes, resulting in more coherent scene layouts.
 Extensive experimental results demonstrate that MMGDreamer exhibits superior control of object geometry, achieving state-of-the-art scene generation performance.
+
+## Citation
+If you find our work useful in your research, please consider citing:
