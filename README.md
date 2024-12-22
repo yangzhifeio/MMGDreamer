@@ -84,10 +84,10 @@ Feel free to contact <a href="https://github.com/yangzhifeio">Zhifei Yang</a> (e
 
 
 ## 📋 TODO
-- [x] Release the training and evaluation code
+- [x] Release the training and evaluation model code
 - [x] Release the training scripts
 - [x] Release the evaluation scripts
-- [x] Release the pretrained weights of VQ-VAE
+- [x] Release the pre-trained weights of VQ-VAE
 - [ ] Release the VEM and RP modules code
 
 
