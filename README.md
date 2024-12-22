@@ -209,6 +209,10 @@ After obtaining object meshes, modify the path in `compute_mmd_cov_1nn.py`, run:
 bash scripts_sh/mmd_cov_1nn.sh
 ```
 We use CD distance to calculate.
+## Citation
+If you find our work useful in your research, please consider citing it:
+	@misc{
+	}
 
 ## Acknowledgements 
 **Relevant work:** [CommonScenes](https://github.com/ymxlzgy/commonscenes), [EchoScene](https://github.com/ymxlzgy/echoscene).
