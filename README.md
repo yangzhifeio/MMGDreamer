@@ -79,8 +79,8 @@ MMGDreamer is a dual-branch diffusion model for scene generation that incorporat
 Feel free to contact <a href="https://github.com/yangzhifeio">Zhifei Yang</a> (email at <a href="mailto:yangzhifei@stu.pku.edu.cn">yangzhifei@stu.pku.edu.cn</a>) or open an issue if you have any questions or suggestions.
 
 ## 📢 News
-- **2024-12-22**: The source code are released.
-- **2024-12-10**: MMGDreamer is accepted by AAAI 2025👏👏.
+- **2024-12-22**: The source code are released. 🎉🎉
+- **2024-12-10**: MMGDreamer is accepted by AAAI 2025.👏👏
 
 
 ## 📋 TODO
