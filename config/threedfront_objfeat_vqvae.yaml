@@ -1,0 +1,32 @@
+model:
+    name: "objfeatvqvae"
+    objfeat_type: ""
+    vq_type: "gumbel"
+
+training:
+    splits: ["train", "val"]
+    epochs: 2000
+    steps_per_epoch: 500
+    batch_size: 128
+    save_frequency: 100
+    log_frequency: 1
+    optimizer:
+        name: "adamw"
+        lr: 0.0001
+        weight_decay: 0.02
+    loss_weights:
+        qloss: 1.
+        rec_mse: 1.
+    ema:
+        use_ema: true
+        max_decay: 0.9999
+        min_decay: 0.
+        update_after_step: 0
+        use_warmup: true
+        inv_gamma: 1.
+        power: 0.75
+
+validation:
+    splits: ["test"]
+    batch_size: 64
+    frequency: 1

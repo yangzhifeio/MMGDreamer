@@ -1,0 +1,18 @@
+CUDA_VISIBLE_DEVICES=6 python scripts/train_3dfront_mask.py --exp ./experiments/train_all_image_mask \
+    --room_type all \
+    --dataset /s2/yangzhifei/project/MMGDreamer/FRONT \
+    --residual True \
+    --network_type mmgdreamer \
+    --with_SDF True \
+    --with_CLIP True \
+    --with_image True \
+    --batchSize 128 \
+    --workers 8 \
+    --loadmodel False \
+    --nepoch 2050 \
+    --large False \
+    --diff_yaml /s2/yangzhifei/project/MMGDreamer/config/full_mp.yaml \
+    --use_scene_rels True \
+    --use_image_scene_rels True \
+    --shuffle_objs True \
+    --mask_random True
