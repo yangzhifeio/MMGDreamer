@@ -91,8 +91,7 @@ Feel free to contact <a href="https://github.com/yangzhifeio">Zhifei Yang</a> (e
 - [ ] Release the VEM and RP modules code
 
 
-## Setup
-### Environment
+## 🔧 Installation
 
 ```javascript
 conda create -n mmgdreamer python=3.8
@@ -122,7 +121,7 @@ Install CLIP:
 pip install ftfy regex tqdm
 pip install git+https://github.com/openai/CLIP.git
 ```
-### Dataset
+## 📊 Dataset
 
 I. Download [3D-FUTURE-SDF](https://www.campar.in.tum.de/public_datasets/2023_commonscenes_zhai/3D-FUTURE-SDF.zip). This is processed by ourselves on the 3D-FUTURE meshes using tools in [SDFusion](https://github.com/yccyenchicheng/SDFusion).
 
@@ -150,7 +149,7 @@ FRONT
 ### Models
 **Essential:** Download pretrained VQ-VAE model from [here](https://www.campar.in.tum.de/public_datasets/2023_commonscenes_zhai/vqvae_threedfront_best.pth) to the folder `checkpoint`. Thanks <a href="https://ymxlzgy.com/" target="_blank">Guangyao Zhai</a> for provided the pretrained weights.
 
-## Training
+## 🛩 Training
 
 To train the models, run:
 
@@ -172,7 +171,7 @@ bash scripts_sh/train_all_mask.sh
 `--with_image`: set to `True`. `True` means node contains image.
 
 
-## Evaluation
+## 📈 Evaluation
 
 To evaluate the models run:
 ```
@@ -209,14 +208,15 @@ After obtaining object meshes, modify the path in `compute_mmd_cov_1nn.py`, run:
 bash scripts_sh/mmd_cov_1nn.sh
 ```
 We use CD distance to calculate.
-## Citation
-If you find our work useful in your research, please consider citing it:
-	@misc{
-	}
 
-## Acknowledgements 
+## 😁 Acknowledgements
 **Relevant work:** [CommonScenes](https://github.com/ymxlzgy/commonscenes), [EchoScene](https://github.com/ymxlzgy/echoscene).
 
 **Disclaimer:** This is a code repository for ***reference only***; in case of any discrepancies, the paper shall prevail. 
 
 We sincerely thank Echoscene's author [Guangyao Zhai](https://github.com/ymxlzgy/echoscene) for providing the baseline code and helpful discussions.
+
+## 📚 Citation
+If you find our work useful in your research, please consider citing it:
+	@misc{
+	}
