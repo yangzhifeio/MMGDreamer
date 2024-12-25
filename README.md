@@ -76,7 +76,7 @@
       <img src="./assets/pku.png" alt="pku-api-logo" style="width: 150px; height: auto;"> </a>
       &nbsp; &nbsp; &nbsp; &nbsp; 
   <a href="https://www.thetaedgecloud.com/" target="_blank">
-  <img src="./assets/edgecloud-logo.svg" alt="theta-video-api-logo"> 
+  <img src="./assets/thetacloud2.png" alt="theta-video-api-logo" style="width: 260px; height: auto;"> 
   </a>
   </div>
   
