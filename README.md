@@ -70,6 +70,16 @@
       <img src="https://img.shields.io/badge/Page-MMGDreamer-blue" alt="Project Page"/></a>
 </h3>
 </div>
+
+  <div align="center">
+    <a href="http://zhenxiao.com/team/" target="_blank">
+      <img src="./assets/pku.png" alt="pku-api-logo" style="width: 150px; height: auto;"> </a>
+      &nbsp; &nbsp; &nbsp; &nbsp; 
+  <a href="https://www.thetaedgecloud.com/" target="_blank">
+  <img src="./assets/edgecloud-logo.svg" alt="theta-video-api-logo"> 
+  </a>
+  </div>
+  
 <br>
 <div align="center">
   <img src="./assets/teaser.png" alt="teaser" style="max-width: 100%;">
