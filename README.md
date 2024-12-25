@@ -73,7 +73,7 @@
 
   <div align="center">
     <a href="http://zhenxiao.com/team/" target="_blank">
-      <img src="./assets/pku.png" alt="pku-api-logo" style="width: 150px; height: auto;"> </a>
+      <img src="./assets/pku.png" alt="pku-api-logo" style="width: 150px; height: auto;"></a>
       &nbsp; &nbsp; &nbsp; &nbsp; 
   <a href="https://www.thetaedgecloud.com/" target="_blank">
   <img src="./assets/thetacloud2.png" alt="theta-video-api-logo" style="width: 260px; height: auto;"> 
