@@ -29,7 +29,6 @@
               <span class="author-block">
                 <a href="https://yangzhifeio.github.io/project/MMGDreamer/" target="_blank">Yifan Xu</a><sup>2</sup>,
               </span>
-              <br>
               <span class="author-block">
                 <a href="https://scholar.google.com/citations?hl=zh-CN&user=mDVUFvcAAAAJ&view_op=list_works&sortby=pubdate"
                   target="_blank">Mingzhe Xing</a><sup>1</sup>,
