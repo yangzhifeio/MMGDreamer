@@ -63,8 +63,8 @@
 <div align="center">
 <h3>
 <a><img src="https://img.shields.io/badge/AAAI-2025-red"></a>  
-  <a href="xxx" target="_blank"> 
-      <img src="https://img.shields.io/badge/Paper-arXiv-green" alt="Paper arXiv"></a> 
+  <a href="https://arxiv.org/pdf/2502.05874" target="_blank"> 
+      <img src="https://img.shields.io/badge/Paper arXiv-2502.05874-green" alt="Paper arXiv"></a> 
       <a href="https://yangzhifeio.github.io/project/MMGDreamer/" target="_blank">
       <img src="https://img.shields.io/badge/Page-MMGDreamer-blue" alt="Project Page"/></a>
 </h3>
@@ -229,5 +229,14 @@ We sincerely thank Echoscene's author [Guangyao Zhai](https://github.com/ymxlzgy
 
 ## 📚 Citation
 If you find our work useful in your research, please consider citing it:
-	@misc{
-	}
+```bibtex
+@misc{yang2025mmgdreamermixedmodalitygraphgeometrycontrollable,
+      title={MMGDreamer: Mixed-Modality Graph for Geometry-Controllable 3D Indoor Scene Generation}, 
+      author={Zhifei Yang and Keyang Lu and Chao Zhang and Jiaxing Qi and Hanqi Jiang and Ruifei Ma and Shenglin Yin and Yifan Xu and Mingzhe Xing and Zhen Xiao and Jieyi Long and Xiangde Liu and Guangyao Zhai},
+      year={2025},
+      eprint={2502.05874},
+      archivePrefix={arXiv},
+      primaryClass={cs.CV},
+      url={https://arxiv.org/abs/2502.05874}, 
+}
+```
