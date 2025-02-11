@@ -77,7 +77,7 @@
     <a href="https://github.com/yangzhifeio/MMGDreamer" target="_blank">
       <img src="./assets/beihang.png" alt="beihang-api-logo" style="width: 180px; height: auto;"></a>
     <a href="https://bdnrc.org.cn/" target="_blank">
-      <img src="./assets/shuyuan.png" alt="shuyuan-api-logo" style="width: 150px; height: auto;"></a>
+      <img src="./assets/shuyuan.png" alt="shuyuan-api-logo" style="width: 135px; height: auto;"></a>
     <br>
     &nbsp; &nbsp;
   <a href="https://www.thetaedgecloud.com/" target="_blank">
