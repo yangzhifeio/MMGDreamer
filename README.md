@@ -73,7 +73,13 @@
   <div align="center">
     <a href="http://zhenxiao.com/team/" target="_blank">
       <img src="./assets/pku.png" alt="pku-api-logo" style="width: 150px; height: auto;"></a>
-      &nbsp; &nbsp;
+      &nbsp; 
+    <a href="https://github.com/yangzhifeio/MMGDreamer" target="_blank">
+      <img src="./assets/beihang.png" alt="beihang-api-logo" style="width: 180px; height: auto;"></a>
+    <a href="https://github.com/yangzhifeio/MMGDreamer" target="_blank">
+      <img src="./assets/shuyuan.png" alt="shuyuan-api-logo" style="width: 150px; height: auto;"></a>
+    <br>
+    &nbsp; &nbsp;
   <a href="https://www.thetaedgecloud.com/" target="_blank">
   <img src="./assets/thetacloud2.png" alt="theta-video-api-logo" style="width: 260px; height: auto;"></a>
 &nbsp; &nbsp;
