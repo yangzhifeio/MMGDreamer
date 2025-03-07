@@ -63,7 +63,7 @@
 <div align="center">
 <h3>
 <a><img src="https://img.shields.io/badge/AAAI-2025-red"></a>  
-  <a href="https://arxiv.org/pdf/2502.05874" target="_blank"> 
+  <a href="https://arxiv.org/pdf/2502.05874v2" target="_blank"> 
       <img src="https://img.shields.io/badge/Paper arXiv-2502.05874-green" alt="Paper arXiv"></a> 
       <a href="https://yangzhifeio.github.io/project/MMGDreamer/" target="_blank">
       <img src="https://img.shields.io/badge/Page-MMGDreamer-blue" alt="Project Page"/></a>
