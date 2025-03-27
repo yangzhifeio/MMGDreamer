@@ -41,9 +41,6 @@
                   Long</a><sup>4</sup>,
               </span>
               <span class="author-block">
-                <a href="https://yangzhifeio.github.io/project/MMGDreamer/" target="_blank">Xiangde Liu</a><sup>3</sup>,
-              </span>
-              <span class="author-block">
                 <a href="https://ymxlzgy.com/" target="_blank">Guangyao Zhai</a><sup>5</sup>
               </span>
 </div>
