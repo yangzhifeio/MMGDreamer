@@ -1,7 +1,7 @@
 # mask type three
 CUDA_VISIBLE_DEVICES=4 python scripts/eval_3dfront_three.py --exp ./experiments/train_all_image_mask \
     --dataset /s2/yangzhifei/project/MMGDreamer/FRONT \
-    --epoch 2050 \
+    --epoch 2049 \
     --visualize True \
     --room_type all \
     --render_type mmgscene \
