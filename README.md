@@ -102,7 +102,7 @@ Feel free to contact <a href="https://github.com/yangzhifeio">Zhifei Yang</a> (e
 - [x] Release the pre-trained weights of VQ-VAE
 - [x] Release the training scripts
 - [x] Release the evaluation scripts
-- [ ] Release the VEM and RP modules code
+<!--- [ ] Release the VEM and RP modules code -->
 
 
 ## 🔧 Installation
