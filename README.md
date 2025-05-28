@@ -4,7 +4,7 @@
 <br>
 <div align="center">
   <span class="author-block">
-                <a href="https://yangzhifeio.github.io/project/MMGDreamer/" target="_blank">Zhifei
+                <a href="https://scholar.google.com/citations?user=xwo0w0AAAAAJ&hl=zh-CN&oi=ao" target="_blank">Zhifei
                   Yang</a><sup>1</sup>,</span>
               <span class="author-block">
                 <a href="https://yangzhifeio.github.io/project/MMGDreamer/" target="_blank">Keyang
