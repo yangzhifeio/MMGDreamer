@@ -233,10 +233,13 @@ We sincerely thank Echoscene's author [Guangyao Zhai](https://github.com/ymxlzgy
 ## 📚 Citation
 If you find our work useful in your research, please consider citing it:
 ```bibtex
-@article{yang2025mmgdreamer,
-  title={MMGDreamer: Mixed-Modality Graph for Geometry-Controllable 3D Indoor Scene Generation},
+@inproceedings{yang2025mmgdreamer,
+  title={Mmgdreamer: Mixed-modality graph for geometry-controllable 3d indoor scene generation},
   author={Yang, Zhifei and Lu, Keyang and Zhang, Chao and Qi, Jiaxing and Jiang, Hanqi and Ma, Ruifei and Yin, Shenglin and Xu, Yifan and Xing, Mingzhe and Xiao, Zhen and others},
-  journal={arXiv preprint arXiv:2502.05874},
+  booktitle={Proceedings of the AAAI Conference on Artificial Intelligence},
+  volume={39},
+  number={9},
+  pages={9391--9399},
   year={2025}
 }
 ```
